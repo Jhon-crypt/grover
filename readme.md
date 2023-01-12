@@ -4,7 +4,7 @@
 
 Grover is a landing page that assures fresh grocery every morning to your family without getting out this pandemic.
 
-[Check It Out Here](https://wedance.vip/get-involved)
+[Check It Out Here](https://grover-project.netlify.app/)
 
 ## Built with
 
